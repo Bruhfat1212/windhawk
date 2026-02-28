@@ -760,7 +760,7 @@
 	"dependencies": {
 		"fs-ext": "^2.1.1",
 		"ini-win": "^3.0.3",
-		"js-yaml": "^4.1.0",
+		"js-yaml": "^4.1.1",
 		"jsonschema": "^1.5.0",
 		"native-reg": "^1.1.1",
 		"node-fetch": "^2.7.0",
@@ -777,13 +777,13 @@
 		"@typescript-eslint/eslint-plugin": "^8.30.1",
 		"@typescript-eslint/parser": "^8.30.1",
 		"copy-webpack-plugin": "^13.0.0",
-		"@electron/rebuild": "^3.7.2",
+		"@electron/rebuild": "^4.0.3",
 		"eslint": "^9.24.0",
 		"node-loader": "^2.1.0",
 		"rimraf": "^6.0.1",
 		"ts-loader": "^9.5.2",
 		"typescript": "^5.8.3",
-		"webpack": "^5.99.6",
+		"webpack": "^5.105.3",
 		"webpack-cli": "^6.0.1"
 	}
 }
